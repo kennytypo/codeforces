@@ -27,3 +27,7 @@ public class task71A {
         }
     }
 }
+/*
+sample text
+
+*/
