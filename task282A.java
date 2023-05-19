@@ -27,6 +27,5 @@ public class task282A {
             }
         }
         System.out.println(result);
-
     }
 }

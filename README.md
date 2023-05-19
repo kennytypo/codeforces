@@ -1,2 +1,2 @@
-# codeforces1
+# codeforces
 solving problems from codeforces
